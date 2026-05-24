@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## My Repo Galaxy in GitVerse
-
-[![My GitVerse Galaxy](https://gitverse.pages.dev/galaxy?user=zy-cai&repos=chili-epfl%2Fjupyter-analytics%2Cchili-epfl%2Fjupyter-analytics-dashboard%2Cchili-epfl%2Fjupyter-analytics-telemetry%2Cchili-epfl%2Fjupyter-analytics-backend)](https://gitverse.pages.dev/personal/view?user=zy-cai&repos=chili-epfl%2Fjupyter-analytics%2Cchili-epfl%2Fjupyter-analytics-dashboard%2Cchili-epfl%2Fjupyter-analytics-telemetry%2Cchili-epfl%2Fjupyter-analytics-backend)
